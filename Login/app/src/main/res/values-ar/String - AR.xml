@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تسجيل الدخول</string>
+    <string name="nameV">الإسم</string>
+    <string name="passV">كلمة المرور</string>
+    <string name="nameM">الإسم</string>
+    <string name="passM">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="nameHint">ادخل إسمك</string>
+    <string name="passHint">ادخل كلمة المرور</string>
+</resources>

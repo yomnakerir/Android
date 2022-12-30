@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="nameV">Name</string>
+    <string name="passV">Password</string>
+    <string name="nameM">Name</string>
+    <string name="passM">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="nameHint">enter your name</string>
+    <string name="passHint">enter your password</string>
+</resources>
