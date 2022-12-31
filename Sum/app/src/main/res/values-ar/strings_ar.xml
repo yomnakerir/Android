@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جمع</string>
+    <string name="fnumV">الرقم الأول</string>
+    <string name="snumV">الرقم الثانى</string>
+    <string name="fnumHint">ادخل الرقم الأول</string>
+    <string name="snumHint">ادخل الرقم الثانى</string>
+    <string name="sumText">جمع</string>
+    <string name="resultV">النتيجة</string>
+
+
+</resources>

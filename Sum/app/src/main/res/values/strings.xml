@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sum</string>
+    <string name="fnumV">First Number</string>
+    <string name="snumV">Second Number</string>
+    <string name="fnumHint">enter the first number</string>
+    <string name="snumHint">enter the second number</string>
+    <string name="sumText">Sum</string>
+    <string name="resultV">Result</string>
+</resources>
