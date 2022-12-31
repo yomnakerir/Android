@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+    <string name="welocmeText">Welcome To My App</string>
+    <string name="next">Next</string>
+    <string name="closeBtn">Close</string>
+    <string name="text">The Last Page</string>
+</resources>
